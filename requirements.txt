@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langserve
+langchain-groq
+pinecone
+sentence-transformers
+langfuse
+httpx
+pydantic
+python-dotenv
+python-multipart
+sse-starlette
+reportlab
+markdown
