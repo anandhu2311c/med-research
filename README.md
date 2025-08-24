@@ -397,20 +397,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/smart-medical-literature-assistant/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/smart-medical-literature-assistant/discussions)
-- **Email**: your.email@domain.com
+- **Issues**: [GitHub Issues](https://github.com/anandhu2311c/med-research/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/anandhu2311c/med-research/discussions)
+- **Email**: anandhubiju788@gmail.com
 
-## 🗺️ Roadmap
 
-- [ ] **Multi-language Support** (Spanish, French, German)
-- [ ] **Advanced Filters** (Impact factor, citation count)
-- [ ] **Collaboration Features** (Shared workspaces, comments)
-- [ ] **Mobile App** (React Native)
-- [ ] **API Rate Limiting** (Redis-based)
-- [ ] **Advanced Analytics** (Usage patterns, popular queries)
-- [ ] **Integration APIs** (Zotero, Mendeley, EndNote)
-- [ ] **Custom Models** (Fine-tuned domain models)
 
 ---
 
@@ -418,6 +409,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you find it useful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [ANANDHU BIJU](https://github.com/anandhu2311c)
 
 </div>
