@@ -15,7 +15,7 @@
 - **🤖 AI-Powered Analysis**: Advanced summarization using Groq's Llama-3.3 models
 - **📊 Evidence Extraction**: Structured data extraction with confidence scoring
 - **🎯 Semantic Search**: Vector-based similarity search using Hugging Face transformers
-- **📄 Professional Reports**: Export to PDF, Markdown with proper citations
+- **📄 Professional Reports**: Export to PDF, Markdown with proper citation
 - **📈 Full Observability**: Complete pipeline monitoring with Langfuse
 - **⚡ Real-time Processing**: Live progress updates and streaming responses
 - **🎨 Modern UI**: Responsive React interface with Tailwind CSS
