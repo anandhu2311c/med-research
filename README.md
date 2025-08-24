@@ -7,10 +7,15 @@ A full-stack application for automated literature search across PubMed, arXiv, a
 - **Backend**: FastAPI + LangServe + LangGraph
 - **Frontend**: React + Vite + TypeScript
 - **LLM**: Groq API (Llama-3 family)
-- **Vector DB**: Pinecone (Starter tier)
+- **Vector DB**: Pinecone 
 - **Embeddings**: Hugging Face sentence-transformers (local)
 - **Observability**: Langfuse
-- **Database**: SQLite + optional Supabase
+
+## LangChain ecosystem
+
+- **LangGraph** → Orchestrates multi-step research pipelines  
+- **LangServe** → Exposes LangChain workflows via FastAPI endpoints  
+- **Langfuse** → Provides observability, tracing, and debugging for AI pipelines  
 
 ## Features
 
